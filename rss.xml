@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Escape The Pod]]></title>
         <description><![CDATA[Escape The Pod]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/escape-the-pod/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Dec 2015 17:24:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Dec 2015 17:26:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/escape-the-pod/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/46bb1dfc-0988-4e51-b5e2-3925ede04125.jpg">]]></description>
-            <link>undefined81630f7b-5ae0-4b8e-8477-7532a1b0064e/index.html</link>
+            <title><![CDATA[My First Grid Post Evvah!]]></title>
+            <description><![CDATA[<article><h1>My First Grid Post Evvah!</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/46bb1dfc-0988-4e51-b5e2-3925ede04125.jpg"></article>]]></description>
+            <link>https://thegrid.ai/escape-the-pod/81630f7b-5ae0-4b8e-8477-7532a1b0064e/index.html</link>
             <guid isPermaLink="false">81630f7b-5ae0-4b8e-8477-7532a1b0064e</guid>
-            <pubDate>Wed, 30 Dec 2015 17:24:30 GMT</pubDate>
+            <pubDate>Wed, 30 Dec 2015 17:26:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
